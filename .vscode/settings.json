@@ -1,0 +1,8 @@
+{
+    "zencoder.enableRepoIndexing": true, 
+    "zencoder.excludeGitIgnoreFromIndexing": true,
+    "zencoder.logLevel": "info",
+    "zencoder.repoIndex.debug.keepZipFiles": true,
+    "zencoder.repoIndex.debug.desiredChunkSize": 2097152,
+    "zencoder.repoIndex.debug.repoIndexingInterval": 30000
+  }
